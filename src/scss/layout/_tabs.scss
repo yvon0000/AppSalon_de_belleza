@@ -1,0 +1,15 @@
+.tabs{
+@include grid(3,2rem);
+button{
+    background-color:white;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    border: none;
+    padding: 1rem;
+    font-weight: 600;
+    &.actual{
+        background-color: $azul;
+        color: $blanco;
+    }
+}
+}

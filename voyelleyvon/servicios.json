@@ -1,0 +1,54 @@
+{
+    "servicios": [
+        {
+            "id": 1,
+            "nombre": "koupe cheve gramoun",
+            "precio": 80
+        },
+        {
+            "id": 2,
+            "nombre": "koupe cheve timoun",
+            "precio": 60
+        },
+        {
+            "id": 3,
+            "nombre": "koupe cheve fanm",
+            "precio": 100
+        },
+        {
+            "id": 4,
+            "nombre": "koupe bab",
+            "precio": 100
+        },
+        {
+            "id": 5,
+            "nombre": "penyen gason",
+            "precio": 60
+        },
+        {
+            "id": 6,
+            "nombre": "penyen fanm",
+            "precio": 100
+        },
+        {
+            "id": 7,
+            "nombre": "joni o gwodej",
+            "precio": 300
+        },
+        {
+            "id": 8,
+            "nombre": "zong",
+            "precio": 400
+        },
+        {
+            "id": 9,
+            "nombre": "Lave cheve",
+            "precio": 50
+        },
+        {
+            "id": 10,
+            "nombre" : "Tretman kap",
+            "precio": 150
+        }
+    ]
+}
